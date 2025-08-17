@@ -1,74 +1,45 @@
-# Hi there 👋, I'm 3mad
+<!-- Blazing GitHub Profile README -->
 
-💻 **Full-Stack Developer | Competitive Programmer | STEM Student**  
-Passionate about building real-world applications, solving algorithmic problems, and constantly learning new technologies.  
+<h1 align="center">Hey 👋, I'm Ahmed</h1>
+<h3 align="center">
+  <font color="blue">Full-Stack Developer</font> | Problem Solver | Builder
+</h3>
+<!-- <h3 align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-blue?style=for-the-badge" />   <img src="https://img.shields.io/badge/Problem%20Solver-blue?style=for-the-badge" /> &  <img src="https://img.shields.io/badge/Builder-blue?style=for-the-badge" />
+</h3> -->
 
----
-
-## 🚀 About Me
-- 🌐 Full-Stack Developer (MERN + modern frontend tools: React, Tailwind, Next.js)  
-- 🧑‍💻 Competitive Programmer (Codeforces, AtCoder, ICPC training)  
-- 📚 STEM High School Student (Math Olympiad enthusiast & CS learner)  
-- 💡 Love blending **problem-solving + engineering** into impactful projects  
-- 🎯 Goal: Build scalable apps & contribute to open-source while growing into Big Tech  
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-- HTML • CSS • JavaScript (ES6+)  
-- React.js • Next.js • Redux • Tailwind CSS • Bootstrap  
-- GSAP • Framer Motion • Three.js (3D/animations)
-
-### ⚙️ Backend
-- Node.js • Express.js  
-- MongoDB • Mongoose  
-- REST APIs • Authentication (JWT, OAuth)  
-
-### 🛠️ Tools & Platforms
-- Git • GitHub • Linux/CLI • VS Code  
-- Docker (basics) • Postman • Figma  
-
-### 🧠 Currently Learning
-- TypeScript • GraphQL • Advanced React patterns  
-- System Design basics  
-
----
-
-## 📈 GitHub Stats
+### ⚡ Tech Arsenal
+<!--<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,GSAP,nodejs,express,mongodb,git,github,linux,docker,notion" />
+</p>-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mad&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mad&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,tailwind,gsap,nodejs,express,mongodb,git,github,notion,linux,appwrite,arcjet&theme=dark&perline=5" />
+</p>
+
+
+---
+
+### 🔥 Stats That Matter
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GRACE-wDEV&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=GRACE-wDEV&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-🔹 [**Hack Club Gharbiya Website**](#) – Led dev of the official Hack Club site using React & Tailwind.  
-🔹 [**Capstone Pollution Project**](#) – Turning waste (CaCO₃) into pollution-adsorbing material.  
-🔹 [**Portfolio Website**](#) – Fully responsive, animated personal site showcasing skills & projects.  
-🔹 [**Full MERN Blog App**](#) – Authentication, CRUD posts, comments, likes, and dashboard.  
+<!--### 🚀 Projects
+- 🌐 [Hack Club Gharbiya Website](#)  
+- 📝 [MERN Blog App](#)  
+- 🎨 [Portfolio Website](#) 
 
-👉 Check out more in the [Projects section](#).
+--- -->
 
----
-
-## 🎯 My Philosophy
-> *“Code is not just about solving problems. It’s about solving the **right problems** with creativity, scalability, and impact.”*  
-
-- 🔥 I code daily, learn fast, and care about clean architecture.  
-- 🧠 Olympiad mindset: break problems into patterns, think rigorously, execute efficiently.  
-- 🌍 Strong belief in building tech that creates opportunities for others.  
-
----
-
-## 📫 How to Reach Me
-- ✉️ [Email](mailto:youremail@example.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter/X](https://twitter.com/yourprofile)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
-
----
-
-⭐️ **Fun fact:** I can type **130+ WPM** and solve algorithm problems as a warm-up.  
+<h3 align="center">📫 Let’s Connect</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed1-4emad2"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:ahmed.e.eltabbakh@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://ahmed-eltabbakh.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" /></a>
+</p>
