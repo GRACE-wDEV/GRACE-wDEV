@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey 👋, I'm Ahmed</h1>
 <h3 align="center">
-  <font color="blue">Full-Stack Developer</font> | Problem Solver | Builder
+  <font color="blue">Full-Stack Developer</font> & High Schooler 
 </h3>
 <!-- <h3 align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-blue?style=for-the-badge" />   <img src="https://img.shields.io/badge/Problem%20Solver-blue?style=for-the-badge" /> &  <img src="https://img.shields.io/badge/Builder-blue?style=for-the-badge" />
@@ -11,7 +11,7 @@
 
 ---
 
-### ⚡ Tech Arsenal
+### Tech Arsenal
 <!--<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,GSAP,nodejs,express,mongodb,git,github,linux,docker,notion" />
 </p>-->
