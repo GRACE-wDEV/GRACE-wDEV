@@ -1,6 +1,6 @@
 <!-- Blazing GitHub Profile README -->
 
-<h1 align="center">Hey 👋, I'm Ahmed</h1>
+<h1 align="center">Hello, I'm Ahmed</h1>
 <h3 align="center">
   <font color="blue">Full-Stack Developer</font> & Mathematics Enthusiast
 </h3>
