@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey 👋, I'm Ahmed</h1>
 <h3 align="center">
-  <font color="blue">Full-Stack Developer</font> & High Schooler 
+  <font color="blue">Full-Stack Developer</font> & Mathematics Enthusiast
 </h3>
 <!-- <h3 align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-blue?style=for-the-badge" />   <img src="https://img.shields.io/badge/Problem%20Solver-blue?style=for-the-badge" /> &  <img src="https://img.shields.io/badge/Builder-blue?style=for-the-badge" />
