@@ -19,7 +19,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,tailwind,gsap,nodejs,express,mongodb,git,github,notion,linux,appwrite,arcjet&theme=dark&perline=5" />
 </p>
 
-
+<!--
 ---
 
 ### 🔥 Stats That Matter
@@ -27,6 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GRACE-wDEV&show_icons=true&theme=radical" height="165"/>
   <img src="https://streak-stats.demolab.com?user=GRACE-wDEV&theme=radical" height="165"/>
 </p>
+-->
 
 ---
 
